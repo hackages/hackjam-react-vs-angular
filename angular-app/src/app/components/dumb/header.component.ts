@@ -3,7 +3,7 @@ import {Component, OnInit} from '@angular/core'
 // First part : display the title and the subtitle
 
 // Second part : Since the routes are implemented (or not ?) you need now to add
-//               some navLinks to navigate between the pages "Buy" and "Your wallet"
+//               some navLinks to navigate between the pages "Dashboard" and "Your wallet"
 
 @Component({
   selector: 'app-header',
