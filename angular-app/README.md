@@ -15,12 +15,14 @@ The `main.js` file is the entry point of this application, it is here that your 
 
 Check the comments in the following files for further information.
 
+Note: Don't forget to type. All the types that you need are in the folder `/types`.
+
 ## Part One
 
 ### app.component.ts
 
 For now only the dashboard is displayed. The header seems to be missing.
-See what you can do about that
+See what you can do about that.
 
 ### header.componet.ts
 
@@ -41,7 +43,7 @@ You will use this component to display each crypto. Check the comment to see wha
 
 ### app.module.ts
 
-The router need to be setup in the module ( check the angular router for further informations).
+The router needs to be setup in the module (check the angular router for further informations).
 
 In the `header.component.ts` we need some navLinks to navigate between the pages.
 On the `app.component.ts` file you need to give acces to the pages using the router.
